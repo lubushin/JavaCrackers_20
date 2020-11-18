@@ -7,6 +7,7 @@ public class main {
         System.out.println("I hope everybody had a wonderful day");
 
         System.out.println("Let's start a class.");
+
     }
 
 }
