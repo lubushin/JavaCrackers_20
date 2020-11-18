@@ -4,5 +4,7 @@ public class main2 {
         System.out.println("Have a great evening");
 
         System.out.println("We are doing great.");
+
+        System.out.println("I like Java.");
     }
 }
